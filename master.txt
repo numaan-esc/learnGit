@@ -1,1 +1,3 @@
-This is my first repo as I started learning git seriously now.
+This is my first repo as I started learning git.
+
+Did some changes to track!!
